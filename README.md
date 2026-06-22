@@ -14,11 +14,11 @@ My objective was to design, develop, and deploy an end-to-end data intelligence 
 ### ⚙️ Action
 I engineered a modular data pipeline split into three distinct core architectural layers:
 * **Data Engineering (Python):** Architected a 7-stage data processing pipeline (`01_generate_data` through `07_predictive_risk_model`). It handles robust data generation with regional statistical skews, structural cleaning, automated missing-value logic, and error handling.
-* **Database Optimization (SQL):** Enforced database normalization principles by creating a production-grade relational database schema (`schema.sql`). Structured precise primary/foreign key relationships across transactional facts and agent dimensions, writing specialized analytical queries to pinpoint provider-specific failure anomalies.
-* **Predictive Risk Scoring (Machine Learning):** Deployed a deterministic and predictive risk-modeling script. The algorithm evaluates weighted operational features—such as documentation quality scores, historic fraud flags, and consumer incident volumes—to calculate an active risk score. It automatically flags high-risk agents tracking a compliance probability score $\ge$ 70.
+* **Database Optimization (SQL):** Enforced database normalization principles by creating a production grade relational database schema (`schema.sql`). Structured precise primary/foreign key relationships across transactional facts and agent dimensions, writing specialized analytical queries to pinpoint provider specific failure anomalies.
+* **Predictive Risk Scoring (Machine Learning):** Deployed a deterministic and predictive risk-modeling script. The algorithm evaluates weighted operational features such as documentation quality scores, historic fraud flags, and consumer incident volumes to calculate an active risk score. It automatically flags high-risk agents tracking a compliance probability score $\ge$ 70.
 
 ### 📊 Result
-* **Automated Architecture:** Delivered a completely functional, reproducible terminal-driven data pipeline that seamlessly transforms raw transactional activity into structured database metrics.
+* **Automated Architecture:** Delivered a completely functional, reproducible terminal driven data pipeline that seamlessly transforms raw transactional activity into structured database metrics.
 * **Executive Decision Suite:** Designed a comprehensive 5-page interactive Power BI workspace. The solution maps macro performance vectors, displays deep-dive geopolitical risk profiling across regional zones, and aggregates predictive flags into a prioritized field-investigation queue.
 * **Business Value:** This system eliminates manual auditing overhead by instantly transforming messy backend transaction data into highly targeted, evidence-based field intervention plans.
 
