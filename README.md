@@ -49,10 +49,10 @@ The analytical scripts feed directly into a multi-layered **Power BI Dashboard**
 ![Risk Profiling](images/risk_profile.png)
 
 ### Page 3: Geopolitical Risk Profiling & Regional Hotspots
-![Risk Profiling](images/regional_risk_profile.png)
+![Regional Risk Profiling](images/regional_risk_profile.png)
 
 ### Page 4: Complaince Analysis
-![Risk Profiling](images/compliance_analysis.png)
+![Compliance Analysis](images/compliance_analysis.png)
 
 ### Page 5: Predictive Risk Profiles & Active Investigation Queue
 ![Predictive Risk](images/predictive_analysis.png)
