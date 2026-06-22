@@ -1,0 +1,5 @@
+# Ignore local data dumps
+data/
+outputs/
+venv/
+.env
