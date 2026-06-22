@@ -33,7 +33,7 @@ Rather than utilizing a static, pre-cleaned public dataset, I built a custom sim
 * **Realistic Business Skews:** Injecting intentional statistical anomalies, regional risk concentrations, and fluctuating provider failure rates into the data to test the pipeline's compliance filters.
 * **Messy Data Simulation:** Simulating operational realties like missing values, documentation quality deficits, and customer dispute flags to thoroughly test the Python cleaning modules.
 
-This approach demonstrates complete ownership of the data lifecycle—from initial schema design and synthetic simulation to database loading, predictive modeling, and final BI visualization.
+This approach demonstrates complete ownership of the data lifecycle from initial schema design and synthetic simulation to database loading, predictive modeling, and final BI visualization.
 
 ---
 ## 📁 Repository Architecture
