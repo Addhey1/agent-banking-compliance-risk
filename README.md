@@ -43,19 +43,19 @@ The analytical scripts feed directly into a multi-layered **Power BI Dashboard**
 ## 📊 Executive Dashboard Solutions
 
 ### Page 1: High-Level Macro Insights & Performance Vectors
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/executive_summary.JPG)
 
 ### Page 2: Risk Profiling Overview
-![Risk Profiling](images/risk_profile.png)
+![Risk Profiling](images/risk_profile.JPG)
 
 ### Page 3: Geopolitical Risk Profiling & Regional Hotspots
-![Regional Risk Profiling](images/regional_risk_profile.png)
+![Regional Risk Profiling](images/regional_risk_profile.JPG)
 
 ### Page 4: Compliance Analysis
-![Compliance Analysis](images/compliance_analysis.png)
+![Compliance Analysis](images/compliance_analysis.JPG)
 
 ### Page 5: Predictive Risk Profiles & Active Investigation Queue
-![Predictive Risk](images/predictive_analysis.png)
+![Predictive Risk](images/predictive_analysis.JPG)
 
 ---
 
