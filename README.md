@@ -40,6 +40,25 @@ The analytical scripts feed directly into a multi-layered **Power BI Dashboard**
 
 ---
 
+## 📊 Executive Dashboard Solutions
+
+### Page 1: High-Level Macro Insights & Performance Vectors
+![Executive Summary](images/executive_summary.png)
+
+### Page 2: Risk Profiling Overview
+![Risk Profiling](images/risk_profile.png)
+
+### Page 3: Geopolitical Risk Profiling & Regional Hotspots
+![Risk Profiling](images/regional_risk_profile.png)
+
+### Page 4: Complaince Analysis
+![Risk Profiling](images/compliance_analysis.png)
+
+### Page 5: Predictive Risk Profiles & Active Investigation Queue
+![Predictive Risk](images/predictive_analysis.png)
+
+---
+
 ## 🚀 How to Run the Pipeline Local Environment
 
 1. Clone this repository to your local directory.
