@@ -6,7 +6,7 @@ A comprehensive, end-to-end data engineering and analytics framework engineered 
 ## 💼 Project Case Study
 
 ### 📌 Situation
-In large-scale agent banking and fintech networks, compliance teams manually tracking fraud and operational irregularities face massive scalability bottlenecks. This project simulates a rapidly expanding financial ecosystem processing over 500,000 transactions across 5,000 active field agents. Without automation, identifying regional risk hotspots, tracking volatile service provider failure rates, and catching bad actors happens reactively—often after significant capital or reputational damage has occurred.
+In large scale agent banking and fintech networks, compliance teams manually tracking fraud and operational irregularities face massive scalability bottlenecks. This project simulates a rapidly expanding financial ecosystem processing over 500,000 transactions across 5,000 active field agents. Without automation, identifying regional risk hotspots, tracking volatile service provider failure rates, and catching bad actors happens reactively often after significant capital or reputational damage has occurred.
 
 ### 🎯 Task
 My objective was to design, develop, and deploy an end-to-end data intelligence and risk-scoring framework. The system needed to automatically ingest raw operational data, enforce strict relational data integrity rules, run predictive compliance algorithms, and surface actionable, real-time priorities directly to field auditors and C-suite risk executives.
