@@ -23,6 +23,19 @@ I engineered a modular data pipeline split into three distinct core architectura
 * **Business Value:** This system eliminates manual auditing overhead by instantly transforming messy backend transaction data into highly targeted, evidence-based field intervention plans.
 
 ---
+
+## 🎛️ Data Generation & Architecture Disclosure
+
+> 🔒 **Data Privacy & Governance Note:** To maintain strict institutional data compliance and protect enterprise operational privacy, all data utilized in this framework was **programmatically engineered from scratch** using Python. 
+
+Rather than utilizing a static, pre-cleaned public dataset, I built a custom simulation engine to mimic a real-world enterprise environment. This allowed me to intentionally bake in complex data engineering challenges, including:
+* **Relational Integrity:** Programmatically generating synchronous primary and foreign key constraints across `dim_agents`, `dim_locations`, and `fact_transactions`.
+* **Realistic Business Skews:** Injecting intentional statistical anomalies, regional risk concentrations, and fluctuating provider failure rates into the data to test the pipeline's compliance filters.
+* **Messy Data Simulation:** Simulating operational realties like missing values, documentation quality deficits, and customer dispute flags to thoroughly test the Python cleaning modules.
+
+This approach demonstrates complete ownership of the data lifecycle—from initial schema design and synthetic simulation to database loading, predictive modeling, and final BI visualization.
+
+---
 ## 📁 Repository Architecture
 * **`scripts/`**: Core data engineering, Relational data simulation, automated processing, and predictive scoring pipelines.
 * **`sql/`**: Relational database schemas, staging logic, and deep analytical compliance queries.
